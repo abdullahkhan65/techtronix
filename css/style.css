@@ -119,11 +119,11 @@ a:focus {
 
 .navbar-brand {
   background-color: #ffffff;
-  padding: 15px 35px;
+  /* padding: 15px 35px; */
 }
 
 .navbar-brand img {
-  width: 55px;
+  width: 95px;
 }
 
 .custom_nav-container {
@@ -911,6 +911,7 @@ a:focus {
 .info_section {
   background-color: #252525;
   color: #ffffff;
+  height: 250px;
 }
 
 .info_section .info_top {
@@ -929,7 +930,7 @@ a:focus {
 .info_section .info_top .info_logo a {
   display: block;
   background-color: #ffffff;
-  padding: 20px 35px;
+  /* padding: 20px 35px; */
 }
 
 .info_section .info_top .info_logo a img {
